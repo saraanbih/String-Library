@@ -1,0 +1,18 @@
+﻿  Course 7.cpp
+C:\Users\AS\Desktop\Course 7\Course 7\Course 7.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\AS\Desktop\Course 7\Course 7\String.h(160,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%207.cpp')
+  
+C:\Users\AS\Desktop\Course 7\Course 7\String.h(222,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course%207.cpp')
+  
+C:\Users\AS\Desktop\Course 7\Course 7\String.h(253,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%207.cpp')
+  
+C:\Users\AS\Desktop\Course 7\Course 7\String.h(258,19): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%207.cpp')
+  
+C:\Users\AS\Desktop\Course 7\Course 7\String.h(380,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Course%207.cpp')
+  
+  Course 7.vcxproj -> C:\Users\AS\Desktop\Course 7\x64\Debug\Course 7.exe
