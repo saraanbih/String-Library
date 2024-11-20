@@ -1,6 +1,6 @@
 # **String Library**  
 
-Hi everyone, welcome to my **String Library** project! 🎉  
+Hi everyone, welcome to my **String Library** 🎉  
 This is a small library containing several useful functions that can be applied to strings in C++.  
 
 ---
